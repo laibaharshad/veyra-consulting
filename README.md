@@ -8,6 +8,10 @@ Veyra Consulting is a fictional business and digital consulting agency focused o
 
 The project was developed as part of a practical web development assignment covering the full workflow from research and planning to development, testing, and deployment.
 
+## Live Demo
+
+**Live Website:** https://veyra-consulting-alpha.vercel.app/
+
 ## Features
 
 * Responsive multi-page consulting website
@@ -135,6 +139,8 @@ The project was tested for:
 * Lighthouse best practices
 * Lighthouse SEO
 
+The deployed website was also tested to verify that the contact form works through the live Express backend.
+
 Initial Lighthouse testing on the contact page produced:
 
 * Performance: 100
@@ -142,7 +148,7 @@ Initial Lighthouse testing on the contact page produced:
 * Best Practices: 100
 * SEO: 90
 
-Accessibility improvements were subsequently made, including improved text contrast, keyboard focus indicators, and an accessible live region for form messages.
+Accessibility improvements were then made, including improved text contrast, keyboard focus indicators, and an accessible live region for form messages.
 
 ## Running the Project Locally
 
@@ -166,11 +172,12 @@ http://localhost:3000
 
 ## Project Status
 
-The website has been developed, tested, and prepared for deployment as part of the Week 2 individual project.
+The website has been developed, tested, and deployed as part of the Week 2 individual project.
 
 ## Author
 
 **Laiba Arshad**
 
 BS Software Engineering Student
+
 Frontend Developer | AI Engineering
