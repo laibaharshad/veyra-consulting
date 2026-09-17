@@ -1,14 +1,17 @@
 {
   "name": "veyra-consulting",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Premium 3D consulting agency website built with Node.js and Express",
+  "main": "server.js",
   "scripts": {
     "server": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Laiba Arshad",
   "license": "ISC",
+  "engines": {
+    "node": "24.x"
+  },
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
